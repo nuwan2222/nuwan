@@ -3,7 +3,7 @@
 🎓 Software Engineering Student  
 💻 Interested in Full Stack Development  
 🌱 Currently learning Laravel, Flutter, and C#  
-📍 Sri Lanka  
+📍 LNBTI JAPANESE UNIVERCITY , Sri Lanka  
 
 ---
 
